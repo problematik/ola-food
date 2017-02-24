@@ -12,8 +12,11 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
+    "bulma": "^0.3.1",
     "lodash": "^4.17.4",
+    "node-sass": "^4.5.0",
     "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.2",
     "vue": "^2.1.10",
     "vue-router": "^2.2.0"
   },

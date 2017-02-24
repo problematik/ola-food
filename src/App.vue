@@ -11,6 +11,9 @@ export default {
 };
 </script>
 
+<style lang="sass">
+  @import "~bulma"
+</style>
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
