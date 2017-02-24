@@ -1,6 +1,11 @@
 <template>
   <div class="hello">
     <week-days></week-days>
+    <div class="notification is-primary">
+      <p class="subtitle">
+        {{ openedRestaurants.length }} out of {{ Object.keys(restaurants).length }} restaurants opened
+      </p>
+    </div>
     <menu-day :day="day" :meals="todayEntries" :restaurants="restaurants"></menu-day>
   </div>
 </template>
