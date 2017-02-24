@@ -3,6 +3,9 @@
 import Vue from 'vue';
 import App from './App';
 import router from './router';
+import Data from './core/Data';
+
+Data.loadData();
 
 /* eslint-disable no-new */
 new Vue({
