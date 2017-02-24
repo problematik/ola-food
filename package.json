@@ -19,6 +19,7 @@
     "raw-loader": "^0.5.1",
     "sass-loader": "^6.0.2",
     "vue": "^2.1.10",
+    "vue-bulma-tooltip": "^1.0.2",
     "vue-router": "^2.2.0"
   },
   "devDependencies": {
