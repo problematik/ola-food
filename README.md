@@ -1,12 +1,14 @@
-# ola
+# ola food!
 
 > Ola food! - meal searcher
+
+Simple app that will allow you to search for your favourite restaurant, see their open hours and see what they offer!
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
 npm run dev
