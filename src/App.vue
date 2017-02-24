@@ -1,6 +1,8 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
+  <div id="app" class="container">
+    <div class="logo-wrapper">
+      <img class="logo" src="./assets/logo.png">
+    </div>
     <router-view></router-view>
   </div>
 </template>
@@ -15,6 +17,7 @@ export default {
   @import "~bulma"
 </style>
 <style>
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
