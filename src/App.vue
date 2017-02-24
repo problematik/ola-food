@@ -3,6 +3,14 @@
     <div class="logo-wrapper">
       <img class="logo" src="./assets/logo.png">
     </div>
+    <nav class="columns">
+      <router-link to="/restaurants" active="active-link" tag="p" class="column is-one-third big">
+        <a>RESTAURANTS</a>
+      </router-link>
+      <router-link to="/menu" active="active-link" tag="p" class="column is-offset-4 is-one-third big">
+        <a>MENUS</a>
+      </router-link>
+    </nav>
     <router-view></router-view>
   </div>
 </template>
@@ -15,6 +23,8 @@ export default {
 
 <style lang="sass">
   @import "~bulma"
+  .big
+    font-size: $size-3
 </style>
 <style>
 
