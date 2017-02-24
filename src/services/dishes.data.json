@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "restaurant_id": 1,
+    "name": "Carne Asada Burrito",
+    "description": "Grilled skirt steak",
+    "price": 7.95
+  },
+  {
+    "id": 2,
+    "restaurant_id": 1,
+    "name": "Carnitas Burrito",
+    "description": "Citrus-braised pork",
+    "price": 7.95
+  },
+  {
+    "id": 3,
+    "restaurant_id": 1,
+    "name": "Pollo Burrito",
+    "description": "Seasoned grilled chicken",
+    "price": 6.5
+  },
+  {
+    "id": 4,
+    "restaurant_id": 1,
+    "name": "Veggie Burrito",
+    "description": "Grilled peppers, onions, and mushrooms",
+    "price": 6
+  },
+  {
+    "id": 5,
+    "restaurant_id": 1,
+    "name": "Carne Asada Tacos",
+    "description": "grilled steak with cilantro, avocado, onion, crema",
+    "price": 3.5
+  },
+  {
+    "id": 6,
+    "restaurant_id": 1,
+    "name": "Carnitas Tacos",
+    "description": "orange-braised pork with jicama, cilantro, crema",
+    "price": 3.5
+  },
+  {
+    "id": 7,
+    "restaurant_id": 1,
+    "name": "Pollo Tacos",
+    "description": "grilled chicken, avocado, cilantro, crema",
+    "price": 2.75
+  },
+  {
+    "id": 8,
+    "restaurant_id": 1,
+    "name": "Pescado Tacos",
+    "description": "fried tilapia fillet with cabbage, pickled red onion, crema",
+    "price": 3.25
+  },
+  {
+    "id": 9,
+    "restaurant_id": 1,
+    "name": "Veggie Tacos",
+    "description": "grilled peppers, mushrooms, black beans, crema",
+    "price": 3
+  },
+  {
+    "id": 8,
+    "restaurant_id": 2,
+    "name": "Margherita pizza",
+    "description": "San Marzano tomato sauce, fresh mozzarella, fresh basil",
+    "price": 10
+  },
+  {
+    "id": 9,
+    "restaurant_id": 2,
+    "name": "Four Cheese pizza",
+    "description": "Mozzarella, fontina, ricotta, parmesan",
+    "price": 10
+  },
+  {
+    "id": 10,
+    "restaurant_id": 2,
+    "name": "Bologna pizza",
+    "description": "Spicy salami, mozzarella, Bolognese meat sauce",
+    "price": 12
+  },
+  {
+    "id": 11,
+    "restaurant_id": 2,
+    "name": "Vegetarian pizza",
+    "description": "Onion, tomato, bell pepper, mushrooms, olives",
+    "price": 11
+  },
+  {
+    "id": 12,
+    "restaurant_id": 2,
+    "name": "Four Seasons pizza",
+    "description": "Artichoke hearts, kalamata olives, mushrooms, prosciutto",
+    "price": 14
+  },
+  {
+    "id": 13,
+    "restaurant_id": 2,
+    "name": "Sicilian pizza",
+    "description": "Sweet Italian sausage, spicy Capicola ham, fontina, mozzarella, basil",
+    "price": 13
+  },
+  {
+    "id": 14,
+    "restaurant_id": 2,
+    "name": "Florentine pizza",
+    "description": "Ricotta cheese cream sauce, tender roast chicken, spinach",
+    "price": 14
+  },
+  {
+    "id": 15,
+    "restaurant_id": 2,
+    "name": "Mushroom pizza",
+    "description": "Wild mushrooms, tomato, fresh mozzarella, fresh basil",
+    "price": 10
+  },
+  {
+    "id": 16,
+    "restaurant_id": 2,
+    "name": "House Salad",
+    "description": "Organic greens, crumbled gorgonzola, Cerignola olives, house dressing",
+    "price": 5
+  },
+  {
+    "id": 17,
+    "restaurant_id": 2,
+    "name": "Caesar Salad",
+    "description": "Romaine, anchovy, garlic croutons, parmesan, vinaigrette",
+    "price": 6
+  },
+  {
+    "id": 18,
+    "restaurant_id": 2,
+    "name": "Greek Salad",
+    "description": "Romaine, feta, kalamata olives, cucumber, red onion, and red bell pepper, vinaigrette",
+    "price": 9
+  },
+  {
+    "id": 19,
+    "restaurant_id": 2,
+    "name": "Minestrone",
+    "description": "Orzo pasta, cannellini beans, roasted vegetables in tomato broth",
+    "price": 5
+  },
+  {
+    "id": 20,
+    "restaurant_id": 4,
+    "name": "Seasonal Field Greens",
+    "description": "Greens, Anjou pears, cranberries, rosemary cheddar and candied pecans with black-grain mustard vinaigrette",
+    "price": 8
+  },
+  {
+    "id": 21,
+    "restaurant_id": 4,
+    "name": "Caesar Salad",
+    "description": "romaine, fresh parmesan, seasoned croutons & black pepper with house-made garlic anchovy dressing",
+    "price": 8
+  },
+  {
+    "id": 22,
+    "restaurant_id": 4,
+    "name": "Beefsteak Tomato & Sweet Onion Salad",
+    "description": "Locally grown heirloom tomatoes with Maytag bleu cheese dressing",
+    "price": 7
+  },
+  {
+    "id": 23,
+    "restaurant_id": 4,
+    "name": "Center Cut Sirloin",
+    "description": "A customer favorite! Seasoned with our house blend of herbs and spices",
+    "price": 22
+  },
+  {
+    "id": 24,
+    "restaurant_id": 4,
+    "name": "New York Strip",
+    "description": "The king of steaks, dry-aged in-house. Seasoned with our house blend of herbs and spices",
+    "price": 29
+  },
+  {
+    "id": 25,
+    "restaurant_id": 4,
+    "name": "Texas T-Bone",
+    "description": "Large, juicy bone-in cut. Seasoned with our house blend of herbs and spices",
+    "price": 32
+  },
+  {
+    "id": 26,
+    "restaurant_id": 4,
+    "name": "Filet Mignon",
+    "description": "Fork-tender, well marbled filet. Seasoned with our house blend of herbs and spices",
+    "price": 27
+  },
+  {
+    "id": 27,
+    "restaurant_id": 4,
+    "name": "Porterhouse",
+    "description": "The best of New York strip and tenderloin! Seasoned with our house blend of herbs and spices",
+    "price": 32
+  },
+  {
+    "id": 28,
+    "restaurant_id": 4,
+    "name": "Seafood Chowder",
+    "description": "Halibut, wild salmon, white shrimp, clams, and smoked bacon",
+    "price": 0,
+    "market_price": true
+  }
+]

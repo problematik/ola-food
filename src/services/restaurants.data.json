@@ -1,0 +1,188 @@
+[
+{
+  "id": 1,
+  "twitter": "@louigissuperbar",
+  "name": "Louigi's bar",
+  "slug": "louigis-bar",
+  "city": "New York",
+  "address": "9th Street",
+  "phone_number": "080-1234",
+  "description": "Lougi's bar is not owned by an Louigi but an Frank, so if you still think that this place conforms to all the basic paradigms you just might be suprised",
+  "images": {
+    "cover": "https://images.unsplash.com/photo-1421622548261-c45bfe178854?dpr=1&auto=format&fit=crop&w=640&h=400&q=80&cs=tinysrgb&crop=",
+    "other": [
+      "https://images.unsplash.com/photo-1416772472542-01fdd961f986?dpr=1&auto=format&fit=crop&w=640&h=400&q=80&cs=tinysrgb&crop="
+    ]
+  },
+  "opening_hours":
+    {
+      "monday": [
+        {
+          "start": "08:00",
+          "end": "23:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "08:00",
+          "end": "23:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "08:00",
+          "end": "23:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:00",
+          "end": "23:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:00",
+          "end": "01:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:00",
+          "end": "01:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "08:00",
+          "end": "22:00"
+        }
+      ]
+    }
+},
+{
+  "id": 2,
+  "name": "Rexis pizza palace",
+  "slug": "rexis-pizza-palace",
+  "city": "New York",
+  "address": "1st Street",
+  "phone_number": "080-4321",
+    "images": {
+    "cover": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?dpr=1&auto=format&fit=crop&w=640&h=400&q=80&cs=tinysrgb&crop=",
+    "other": [
+      "https://static.pexels.com/photos/38106/pexels-photo-38106.jpeg"
+    ]
+  },
+  "opening_hours":
+    {
+      "monday": [],
+      "tuesday": [
+        {
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "start": "15:00",
+          "end": "22:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "start": "15:00",
+          "end": "22:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:00",
+          "end": "13:00"
+        },
+        {
+          "start": "15:00",
+          "end": "22:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:00",
+          "end": "1:00"
+        },
+        {
+          "start": "15:00",
+          "end": "22:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "10:00",
+          "end": "22:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "10:00",
+          "end": "20:00"
+        }
+      ]
+    }
+},
+{
+  "id": 4,
+  "name": "Romano",
+  "twitter": "@romanoflorida",
+  "slug": "romano",
+  "city": "Florida",
+  "address": "33 St. Michaels street",
+  "phone_number": "060-1122",
+    "images": {
+    "cover": "https://static.pexels.com/photos/260922/pexels-photo-260922.jpeg",
+    "other": [
+      "https://images.pexels.com/photos/6267/menu-restaurant-vintage-table.jpg?w=1260&h=750&auto=compress&cs=tinysrgb"
+    ]
+  },
+  "opening_hours":
+    {
+      "monday": [
+        {
+          "start": "12:00",
+          "end": "23:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "12:00",
+          "end": "23:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "12:00",
+          "end": "23:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "12:00",
+          "end": "23:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "12:00",
+          "end": "1:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "12:00",
+          "end": "01:00"
+        }
+      ],
+      "sunday": []
+    }
+}
+]

@@ -1,0 +1,66 @@
+{
+  "monday": [
+    {
+      "restaurant_id": 1,
+      "menus": [
+        {
+          "name": "Lunch menu #1",
+          "dishes": [
+            1,
+            9
+          ],
+          "discount": 0.1
+        },
+        {
+          "name": "Lunch menu #2",
+          "dishes": [
+            2,
+            9
+          ],
+          "discount": 0.1
+        },
+        {
+          "name": "Lunch menu #3",
+          "dishes": [
+            3,
+            8
+          ]
+        },
+        {
+          "dishes": [
+            5
+          ]
+        },
+        {
+          "dishes": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "restaurant_id": 2,
+      "menus": []
+    },
+    {
+      "restaurant_id": 3,
+      "menus": [
+        {
+          "dishes": [
+            20
+          ]
+        },
+        {
+          "dishes": [
+            21
+          ]
+        },
+        {
+          "dishes": [
+            22
+          ]
+        }
+      ]
+    }
+  ]
+}
