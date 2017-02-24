@@ -45,3 +45,12 @@ export default {
   },
 };
 </script>
+
+<style lang="sass">
+  @import "~bulma/sass/utilities/mixins"
+  .tabs
+    a
+      +mobile
+        padding-left: 5%
+        padding-right: 5%
+</style>

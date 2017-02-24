@@ -94,3 +94,11 @@ export default {
   },
 };
 </script>
+
+<style lang="sass" scoped>
+  @import "~bulma/sass/utilities/mixins"
+  .subtitle
+    +mobile
+      line-height: 0.1
+</style>
+
