@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Hello from 'components/Hello';
-import Menu from 'components/Menu';
+import Restaurants from './../components/Restaurants';
+import Menu from './../components/Menu';
 import Days from './../core/Days';
 
 Vue.use(Router);
@@ -9,9 +9,13 @@ Vue.use(Router);
 export default new Router({
   routes: [
     {
-      path: '/',
-      name: 'Hello',
-      component: Hello,
+      path: '',
+      redirect: '/restaurants',
+    },
+    {
+      path: '/restaurants',
+      name: 'restaurants',
+      component: Restaurants,
     },
     {
       path: '/menu',
