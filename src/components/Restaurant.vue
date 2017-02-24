@@ -1,7 +1,7 @@
 <template>
   <div class="box">
-    <div class="columns">
-      <div v-for="(entries, day) in restaurant.opening_hours" class="column">
+    <div class="columns is-multiline is-mobile">
+      <div v-for="(entries, day) in restaurant.opening_hours" class="column is-3-mobile">
         <hours :label="day" :entries="entries" :highlited="selectedDay(day)"></hours>
       </div>
     </div>

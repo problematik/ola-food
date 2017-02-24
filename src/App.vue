@@ -3,11 +3,11 @@
     <div class="logo-wrapper">
       <img class="logo" src="./assets/logo.svg">
     </div>
-    <nav class="columns">
-      <router-link to="/restaurants" active="active-link" tag="p" class="column is-one-third big">
+    <nav class="columns is-mobile">
+      <router-link to="/restaurants" active="active-link" tag="p" class="column is-one-third-tablet is-half-mobile big">
         <a>RESTAURANTS</a>
       </router-link>
-      <router-link to="/menu" active="active-link" tag="p" class="column is-offset-4 is-one-third big">
+      <router-link to="/menu" active="active-link" tag="p" class="column is-offset-4-tablet is-one-third-table big is-half-mobile">
         <a>MENUS</a>
       </router-link>
     </nav>
